@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Vinicius\Desktop\Projetos-Estudos\p2\laboratorio-p2\lab-02\.metadata\.plugins\org.eclipse.jdt.core

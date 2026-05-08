@@ -1,7 +1,4 @@
-/**
- * Laboratório de Programação 2 - Lab 1
- * * @author Vinicius Santos Sousa - 20250030551
- */
+package dirlididi;
 import java.util.*;
 
 public class PalavrasIngratas {
